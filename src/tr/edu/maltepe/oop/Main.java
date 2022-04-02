@@ -26,9 +26,9 @@ public class Main {
 
 
     center.inSport_Center(s);
-center.inSport_Center(p);
-center.outSport_Center(s);
-center.outSport_Center(p);
+    center.inSport_Center(p);
+    center.outSport_Center(s);
+    center.outSport_Center(p);
   s.soccer();
 
     }
