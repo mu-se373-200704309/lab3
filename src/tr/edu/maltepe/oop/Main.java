@@ -23,7 +23,9 @@ public class Main {
     lib.lendbook(b3,s);
     s.returnbook(lib,b3 );
     p.returnbook(lib,b2);
-center.inSport_Center(s);
+
+
+    center.inSport_Center(s);
 center.inSport_Center(p);
 center.outSport_Center(s);
 center.outSport_Center(p);
